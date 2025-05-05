@@ -6,6 +6,7 @@ Sou Heitor, estudante de Engenharia de Software no Instituto Federal de Goiás. 
 - JavaScript
 - C e C++
 - I.A
+
 📫 Como me encontrar:
 - Linkedin: [https://www.linkedin.com/in/heitorfgfc/](https://www.linkedin.com/in/heitorfgfc/)
 - Email: heitor.cabral.goulart@gmail.com
