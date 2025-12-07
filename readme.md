@@ -3,7 +3,7 @@
 Sou Heitor, estudante de Engenharia de Software no Instituto Federal de Goiás. Curioso por natureza e sempre buscando entender como as coisas funcionam. Tenho interesse por desenvolvimento backend. No tempo livre, estudo tecnologias novas.
 
 🛠️ Tecnologias que uso no dia a dia:
-- JavaScript
+- Python
 - C e C++
 - I.A
 
