@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About me
 
-I'm a 20-year-old Software Engineering student at a federal university in Goiânia, currently interning at **Localiza** as a backend developer.
+I'm a 20-year-old Software Engineering student at a federal university in Goiânia.
 
 I care about writing code that actually solves problems — whether that's building robust APIs, experimenting with machine learning models, or exploring how intelligent systems can work in the real world.
 
