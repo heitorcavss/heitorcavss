@@ -9,12 +9,12 @@
 
 ## 🧑‍💻 About me
 
-I'm a 20-year-old Software Engineering student at a federal university in Goiânia.
+I'm a 21-year-old Software Engineering student at a federal university in Goiânia.
 
 I care about writing code that actually solves problems — whether that's building robust APIs, experimenting with machine learning models, or exploring how intelligent systems can work in the real world.
 
 - 🎓 Bachelor's in Software Engineering (in progress)
-- 🤖 Interested in **AI**, **IoT** and **Applied Computing**
+- 🤖 Interested in **Back-end Development** **AI**, **IoT** and **Applied Computing**
 - 📈 Currently leveling up in Python, ML pipelines and distributed systems
 - 🌱 Always learning — finance, English and fitness too (yes, outside the screen)
 
