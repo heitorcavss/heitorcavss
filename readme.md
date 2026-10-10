@@ -37,12 +37,7 @@ I care about writing code that actually solves problems — whether that's build
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=heitorcavss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorcavss&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=heitorcavss&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
