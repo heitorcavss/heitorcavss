@@ -40,7 +40,7 @@ I care about writing code that actually solves problems — whether that's build
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=heitorcavss&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=heitorcavss&theme=tokyonight&hide_border=true&v=2" alt="GitHub streak"/>
 </p>
 
 ---
