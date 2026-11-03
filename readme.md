@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Developer+%40+Localiza;Building+AI+Agents+%26+Automations;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Building+AI+Agents+%26+Automations;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About me
 
-I'm a 21-year-old Software Engineering student at a federal university in Goiânia, currently interning as a Backend Developer at Localiza.
+I'm a 21-year-old Software Engineering student at a federal university in Goiânia.
 
 I care about writing code that actually solves problems — whether that's building robust APIs, automating workflows, or exploring how intelligent systems can work in the real world.
 
